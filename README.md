@@ -1,0 +1,2 @@
+# premium-gas-burner-001-gas-burner-nozzle-venturi-mi
+Stop wasting hours flipping through messy bookmarks and half-filled notebooks for your gas burner specs. Your next forge build deserves a single, organized command center.  This Notion template solves the chaos of managing nozzle dimensions, venturi mixing ratios, and build logs by centralizing everything in a structured, searchable database. Inste
